@@ -34,7 +34,7 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-     System.out.println("Hello, KrishnaDevOpsss");
+     System.out.println("Hello, KrishnaDevOpss");
      System.out.println("Hello, devopsbbyshahshshh");
      System.out.println("Hello, devopsbykikki123123"); 
 
